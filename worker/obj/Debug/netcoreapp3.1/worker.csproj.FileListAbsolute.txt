@@ -1,0 +1,15 @@
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.exe
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.deps.json
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.runtimeconfig.json
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.runtimeconfig.dev.json
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.dll
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\worker.pdb
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.csprojAssemblyReference.cache
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.AssemblyInfoInputs.cache
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.AssemblyInfo.cs
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.csproj.CoreCompileInputs.cache
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.dll
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.pdb
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.genruntimeconfig.cache
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fabian.dellamorte\Documents\Projects\test-rabbitmq-with-worker\worker\obj\Debug\netcoreapp3.1\worker.csproj.CopyComplete
